@@ -16,8 +16,11 @@ With chi-square feature selection: Accuracy = 0.85
 Without chi-square feature selection: Accuracy = 0.71
 Conclusion
 The incorporation of chi-square feature selection notably improved the accuracy of both logistic regression and random forest models. By focusing on words with higher chi-square scores, our models could make more precise predictions. This experiment underscores the effectiveness of chi-square feature selection in sentiment analysis, particularly for datasets with high dimensionality.
- 
-Datalink: https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset
+  
+
+
+  
+Data link: https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset
 <!---
 hermimimeow/hermimimeow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
